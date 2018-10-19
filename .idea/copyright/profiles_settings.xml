@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="MyCopyrightProfile">
+    <module2copyright>
+      <element module="NewSharedScope" copyright="MyCopyrightProfile" />
+    </module2copyright>
+  </settings>
+</component>
